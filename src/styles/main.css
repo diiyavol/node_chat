@@ -19,3 +19,7 @@
   flex: 1;
   justify-content: flex-start;
 }
+
+html {
+  background-color: violet;
+}
